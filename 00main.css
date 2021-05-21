@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(202, 133, 248);
+}
+
+.padding-class{
+    border: 10px whitesmoke;
+    margin: 50px 50px 50px 50px;
+}
+/* rule-set #1 */
+#number-one{
+    font-size: 50px;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.example1{
+    height: 450px;
+    width: 55%;
+    background-color: whitesmoke;
+}
+
+.border-style{
+    margin: 50px;
+}
